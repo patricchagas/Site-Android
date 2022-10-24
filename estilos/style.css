@@ -90,7 +90,7 @@ nav > a:hover  {
 /*Se colocar margin, nas classes, é possivel deixar animado apenas a box do texto indidualemte, caso use sem a classe, todos vão ser animados no hover */
 
 main {
-    min-width: 280px;
+    min-width: 260px;
     max-width: 1000px;
     margin: auto;
     margin-bottom: 20px;
@@ -191,7 +191,7 @@ main aside > h3 {
 }
 
 aside > ul {
-    list-style-type: '\2714\0020\0020';
+    list-style-type: '\2714\00A0\00A0';
     columns: 2;
     list-style-position: inside;
     text-indent: 5px;
