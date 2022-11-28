@@ -25,11 +25,8 @@
     margin: 0px;
     padding: 0px;
 }
-html, body {
-    min-height: 100%;
-}
+
 body {
-    position: relative;
     background-color: var(--cor0);
     font-family: var(--fonte-padrao);
 }
@@ -202,7 +199,6 @@ aside > ul {
 }
 
 footer {
-    min-height: 25px;
     text-align: center;
     font-weight: bolder;
     background-color: var(--cor5);
@@ -214,7 +210,7 @@ footer a {
     text-decoration: none;
     font-weight: bolder;
     color: white;
-    padding: 5px;
+    padding:0px 5px;
 }
 
 footer a:hover {
