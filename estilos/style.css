@@ -267,7 +267,7 @@ footer a:hover {
         grid-template-columns:  repeat( 2, 1rf);
         grid-template-rows: repeat(2, 2vw);
         gap: 0.9rem;
-        font-size: 0.8em;
+        font-size: 0.9em;
         text-align: center;
     }
 
